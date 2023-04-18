@@ -1,0 +1,29 @@
+# dependencies
+node_modules
+
+# IDE files
+.DS_Store
+.vscode
+.idea
+.iml
+.history
+
+# Package Files
+.zip
+.gzip
+.tar.gz
+.rar
+
+# Log file
+.log
+
+# Compiled class file
+.class
+
+#Other folders
+lib
+logs
+target
+out
+out
+gen
