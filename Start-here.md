@@ -37,3 +37,16 @@ If you're new to joining a project, don't worry - it's a straightforward process
 ### **02: Creating a new project.**
 
 We're constantly searching for fresh and interesting projects for our community to work on together! If you have an exciting project or idea that you believe the community would be interested in, please contact a member of the Management Team through slack with a comprehensive project brief.
+
+## Structure of an open-source project:
+
+Although every open-source community is unique, many follow a similar organizational structure. Spending years on one project may not prepare you for the norms, communication styles, and vocabulary of another project. However, understanding the different roles and overall process will help you adapt to any new project more quickly.
+
+The typical open-source project has various types of people involved, including the author(s), owner(s), maintainers, contributors, and community members. Larger projects may also have subcommittees or working groups focused on specific tasks. You can usually find this information on a project's website or in the repository's governance documentation.
+
+Documentation is essential for every project and usually located in the top level of a repository. These files may include the license, README, CONTRIBUTING, CODE_OF_CONDUCT, and additional documentation, such as tutorials or governance policies.
+
+Open-source projects also use several tools to organize discussions, including issue trackers, pull requests, and discussion forums or mailing lists. Some projects may also use chat channels for casual conversations, collaboration, and quick exchanges.
+
+Reviewing these archives can provide you with a good understanding of how the community thinks and works.
+
